@@ -28,11 +28,12 @@ public class Cwiczenie : MonoBehaviour
             }   
         }
         dane.Clear();
-
+/*
         Debug.Log(dane.Count);
         Debug.Log(jedynki.Count);
         Debug.Log(dwojki.Count);
         Debug.Log(trojki.Count);
+        */
     }
 
     // Update is called once per frame
